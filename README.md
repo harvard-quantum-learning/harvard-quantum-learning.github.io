@@ -11,6 +11,6 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 
 [Canvas (for announcements)](https://canvas.harvard.edu/courses/158126/)
 [Ed discussion forum](https://edstem.org/us/courses/85742/)
-[Course Overleaf](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a)
+<!-- [Course Overleaf](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a) -->
 
 **Course Policies**: See [syllabus](/syllabus.pdf) for detailed overview
