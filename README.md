@@ -13,4 +13,11 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 [Ed discussion forum](https://edstem.org/us/courses/85742/)
 <!-- [Course Overleaf](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a) -->
 
-**Course Policies**: See [syllabus](/syllabus.pdf) for detailed overview
+**Course Policies**: See [syllabus](/syllabus.pdf) for detailed overview.
+
+
+**Lectures**:
+
+|                 | Topic                                  | Link                 | Readings                                                                                                                                                                                               |
+| --------------- | -------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Lecture 1 (9/3) | Vignette: Learning an Unknown Rotation | [pdf](/lecture1.pdf) | - [HKOT23](https://arxiv.org/pdf/2302.14066): bootstrapping for learning arbitrary unitaries down to Heisenberg limit<br>- [GLM11](https://arxiv.org/pdf/1102.2318): review paper on quantum metrology |
