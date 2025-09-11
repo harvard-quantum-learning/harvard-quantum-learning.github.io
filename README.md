@@ -9,7 +9,7 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 
 
 **Teaching Fellows**: Weiyuan Gong, Quynh Nguyen
-*Office hours*: M 5-6 pm, Pierce G7A; W 2-3, Pierce G7A
+*Office hours*: M 5-6 pm, Pierce G7A; W 2-3, 52 Oxford St B150
 *Recitation*: Th 4-5pm, Maxwell Dworkin G115
 
 
@@ -19,7 +19,7 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 
 **Course Policies**: See [syllabus](/syllabus.pdf) for detailed overview.
 
-##### Lecture Notes:
+### Lecture Notes:
 
 |                  | Topic                                  | Link                  | Readings                                                                                                                                                                                               |
 | ---------------- | -------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
