@@ -27,3 +27,8 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 | Lecture 2 (9/8)  | Classical probability and tensors      | [pdf](./lecture2.pdf) |                                                                                                                                                                                                        |
 | Lecture 3 (9/10) | Quantum mechanics basics               | [pdf](./lecture3.pdf) |                                                                                                                                                                                                        |
 
+
+
+### Psets:
+- [Overleaf with tex files](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a)
+- **Pset 1:** [pdf](./pset1.pdf) (out: 9/11, due: 9/25)
