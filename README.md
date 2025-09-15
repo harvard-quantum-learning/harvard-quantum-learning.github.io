@@ -25,7 +25,8 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 | ---------------- | -------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Lecture 1 (9/3)  | Vignette: Learning an Unknown Rotation | [pdf](/lecture1.pdf)  | - [HKOT23](https://arxiv.org/pdf/2302.14066): bootstrapping for learning arbitrary unitaries down to Heisenberg limit<br>- [GLM11](https://arxiv.org/pdf/1102.2318): review paper on quantum metrology |
 | Lecture 2 (9/8)  | Classical probability and tensors      | [pdf](./lecture2.pdf) |                                                                                                                                                                                                        |
-| Lecture 3 (9/10) | Quantum mechanics basics               | [pdf](./lecture3.pdf) |                                                                                                                                                                                                        |
+| Lecture 3 (9/10) | Quantum mechanics basics I             | [pdf](./lecture3.pdf) |                                                                                                                                                                                                        |
+| Lecture 4 (9/15) | Quantum mechanics basics II            | [pdf](./lecture4.pdf) |                                                                                                                                                                                                        |
 
 
 
