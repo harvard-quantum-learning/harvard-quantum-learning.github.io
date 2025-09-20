@@ -5,7 +5,7 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 **Time/Location**: MW 3-4:15, Pierce 209
 
 **Instructors**: Sitan Chen, Jordan Cotler
-*Office hours*: Th 10:30-11:30, SEC 3.325; Tu 11-12, Goel 418
+*Office hours*: Th 10:00-11:, SEC 3.325; Tu 11-12, Goel 418
 
 
 **Teaching Fellows**: Weiyuan Gong, Quynh Nguyen
@@ -21,12 +21,14 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 
 ### Lecture Notes:
 
-|                  | Topic                                  | Link                  | Readings                                                                                                                                                                                               |
-| ---------------- | -------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Lecture 1 (9/3)  | Vignette: Learning an Unknown Rotation | [pdf](/lecture1.pdf)  | - [HKOT23](https://arxiv.org/pdf/2302.14066): bootstrapping for learning arbitrary unitaries down to Heisenberg limit<br>- [GLM11](https://arxiv.org/pdf/1102.2318): review paper on quantum metrology |
-| Lecture 2 (9/8)  | Classical probability and tensors      | [pdf](./lecture2.pdf) |                                                                                                                                                                                                        |
-| Lecture 3 (9/10) | Quantum mechanics basics I             | [pdf](./lecture3.pdf) |                                                                                                                                                                                                        |
-| Lecture 4 (9/15) | Quantum mechanics basics II            | [pdf](./lecture4.pdf) |                                                                                                                                                                                                        |
+|                  | Topic                                                                | Link                  | Readings                                                                                                                                                                                               |
+| ---------------- | -------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Lecture 1 (9/3)  | Vignette: Learning an Unknown Rotation                               | [pdf](/lecture1.pdf)  | - [HKOT23](https://arxiv.org/pdf/2302.14066): bootstrapping for learning arbitrary unitaries down to Heisenberg limit<br>- [GLM11](https://arxiv.org/pdf/1102.2318): review paper on quantum metrology |
+| Lecture 2 (9/8)  | Classical probability and tensors                                    | [pdf](./lecture2.pdf) |                                                                                                                                                                                                        |
+| Lecture 3 (9/10) | Quantum mechanics basics I                                           | [pdf](./lecture3.pdf) |                                                                                                                                                                                                        |
+| Lecture 4 (9/15) | Quantum mechanics basics II                                          | [pdf](./lecture4.pdf) |                                                                                                                                                                                                        |
+| Lecture 5 (9/17) | Quantum tomography with single-copy measurements I (entrywise error) | [pdf](./lecture5.pdf) | Bonus content: [notes on tensor networks](./tensor_networks.pdf)                                                                                                                                       |
+
 
 
 
