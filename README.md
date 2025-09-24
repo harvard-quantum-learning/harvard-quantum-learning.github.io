@@ -15,7 +15,7 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 
 [Canvas (for announcements)](https://canvas.harvard.edu/courses/158126/)
 [Ed discussion forum](https://edstem.org/us/courses/85742/)
-<!-- [Course Overleaf](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a) -->
+[Course Overleaf](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a) 
 
 **Course Policies**: See [syllabus](/syllabus.pdf) for detailed overview.
 
@@ -29,7 +29,10 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 | Lecture 4 (9/15) | Quantum mechanics basics II                                                                          | [pdf](./lecture4.pdf) |                                                                                                                                                                                                                                                                                     |
 | Lecture 5 (9/17) | Quantum tomography with single-copy measurements I (entrywise error)                                 | [pdf](./lecture5.pdf) | Bonus content: [notes on tensor networks](./tensor_networks.pdf)                                                                                                                                                                                                                    |
 | Lecture 6 (9/22) | Quantum tomography with single-copy measurements II (operator norm)                                  | [pdf](./lecture6.pdf) | - [KRT14](https://arxiv.org/pdf/1410.6913): original paper on tomography with single-copy random measurements<br>- [GKKT18](https://arxiv.org/pdf/1809.11162): paper that algorithm from lecture is based on                                                                        |
-| Lecture 7 (9/24) | Optimal tomography with multi-copy measurements I (representation theory basics, Schur-Weyl duality) |                       | - [OW15](https://arxiv.org/pdf/1508.01907), [HHJWY15](https://arxiv.org/abs/1508.01797): original papers achieving optimal rate for tomography<br>- [W16](http://reports-archive.adm.cs.cmu.edu/anon/2016/CMU-CS-16-108.pdf): PhD thesis of Wright with exposition on these methods |
+| Lecture 7 (9/24) | Optimal tomography with multi-copy measurements I (representation theory basics, Schur-Weyl duality) | [pdf](./lecture7.pdf) | - [OW15](https://arxiv.org/pdf/1508.01907), [HHJWY15](https://arxiv.org/abs/1508.01797): original papers achieving optimal rate for tomography<br>- [W16](http://reports-archive.adm.cs.cmu.edu/anon/2016/CMU-CS-16-108.pdf): PhD thesis of Wright with exposition on these methods |
+| Lecture 8 (9/29) | Optimal tomography with multi-copy measurements II (Schur polynomials, pretty good measurement)      |                       |                                                                                                                                                                                                                                                                                     |
+| Lecture 9 (10/1) | Classical shadows                                                                                    |                       |                                                                                                                                                                                                                                                                                     |
+
 
 
 
