@@ -42,3 +42,4 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 ### Psets:
 - [Overleaf with tex files](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a)
 - **Pset 1:** [pdf](./pset1.pdf) (out: 9/11, due: 9/25)
+- **Pset 2:** [pdf](./pset2.pdf) (out: 9/25, due: 10/9)
