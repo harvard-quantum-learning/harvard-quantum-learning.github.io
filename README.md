@@ -35,7 +35,8 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 | Lecture 10 (10/6)  | Shadows II: Finishing classical shadows; online state learing                              | [pdf](./lecture10.pdf) | - [A17](https://arxiv.org/abs/1711.01053): introduced shadow tomography<br>- [ACHKN18](https://arxiv.org/abs/1802.09025): online state learning                                                                                                                                     |
 | Lecture 11 (10/8)  | Shadows III: Shadow tomography via threshold search                                        | [pdf](./lecture11.pdf) | -[BO20](https://arxiv.org/abs/2011.10908): state of the art guarantee for shadow tomography<br>- [BB22](https://arxiv.org/abs/2210.09155): matching bound via random sequential measurements                                                                                        |
 | Lecture 12 (10/15) | Gibbs I: Introduction to Gibbs states                                                      | [pdf](./lecture12.pdf) |                                                                                                                                                                                                                                                                                     |
-|                    |                                                                                            |                        |                                                                                                                                                                                                                                                                                     |
+| Lecture 13 (10/20) | Gibbs II: Learning high-temperature Gibbs states via cluster expansion                     | [pdf](./lecture13.pdf) | - [HKT21](https://arxiv.org/abs/2108.04842): optimal high-temperature learning algorithm                                                                                                                                                                                            |
+| Lecture 14 (10/22) | Gibbs III: Controlling terms in the cluster expansion                                      | [pdf](./lecture14.pdf) |                                                                                                                                                                                                                                                                                     |
 
 
 
@@ -47,4 +48,4 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 - [Overleaf with tex files](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a)
 - **Pset 1:** [pdf](./pset1.pdf) (out: 9/11, due: 9/25)
 - **Pset 2:** [pdf](./pset2.pdf) (out: 9/25, due: 10/9)
-- **Pset 3:** [pdf](./pset3.pdf) (out: 10/13, due: 10/23)
+- **Pset 3:** [pdf](./pset3.pdf) (out: 10/13, due: 10/27)
