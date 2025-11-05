@@ -38,7 +38,8 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 | Lecture 13 (10/20) | Gibbs II: Learning high-temperature Gibbs states via cluster expansion                     | [pdf](./lecture13.pdf)                                 | - [HKT21](https://arxiv.org/abs/2108.04842): optimal high-temperature learning algorithm                                                                                                                                                                                            |
 | Lecture 14 (10/22) | Gibbs III: Controlling terms in the cluster expansion                                      | [pdf](./lecture14.pdf)                                 |                                                                                                                                                                                                                                                                                     |
 | Lecture 15 (10/27) | Gibbs IV: Newton-Raphson; Intro to low-temperature learning                                | [pdf-a](./lecture15a.pdf)<br>[pdf-b](./lecture15b.pdf) | - [BLMT23](https://arxiv.org/abs/2310.02243): first efficient low-temperature learning algorithm<br>- [CAN25](https://arxiv.org/pdf/2504.02706): efficient local low-temperature learning algorithm (this lecture)                                                                  |
-| Lecture 16 (10/29) | Gibbs V: Identifiability equation and regularization                                       | [pdf](./lecture16.pdf)                                 |                                                                                                                                                                                                                                                                                     |
+| Lecture 16 (10/29) | Gibbs V: Identifiability equation and regularization                                       | [pdf](./lecture16.pdf)                                 | - [CKG23](https://arxiv.org/abs/2311.09207), [CKBG](https://arxiv.org/abs/2303.18224): quantum Gibbs sampling papers introducing operator Fourier transform trick                                                                                                                   |
+| Lecture 17 (11/3)  | Stabilizer states I: Clifford circuits and symplectic inner product                        | [pdf](./lecture17.pdf)                                 | - [GNW17]: Section 2 is a good reference for Clifford / symplectic concepts<br>- [M17](https://arxiv.org/abs/1707.04012): stabilizer learning algorithm<br>- [AG08]: classical simulation of stabilizer circuits                                                                    |
 
 
 
@@ -47,7 +48,7 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 
 
 ### Psets:
-- [Overleaf with tex files](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a)
+- [Overleaf with tex files](https://www.overleaf.com/read/cxtmnnfnjqdk#94a28a) (see here for errata)
 - **Pset 1:** [pdf](./pset1.pdf) (out: 9/11, due: 9/25)
 - **Pset 2:** [pdf](./pset2.pdf) (out: 9/25, due: 10/9)
 - **Pset 3:** [pdf](./pset3.pdf) (out: 10/13, due: 10/27)
