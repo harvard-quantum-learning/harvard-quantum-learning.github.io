@@ -61,3 +61,4 @@ This course covers *quantum learning theory*, a contemporary subject at the inte
 - **Pset 3:** [pdf](./pset3.pdf) (out: 10/13, due: 10/27)
 - **Pset 4:** [pdf](./pset4.pdf) (out: 10/29, due: 11/12)
 - **Pset 5:** [pdf](./pset5.pdf) (out: 11/18, due: 11/25)
+- **Pset 6**: [pdf](./pset6.pdf) (out: 12/1, due: 12/5)
